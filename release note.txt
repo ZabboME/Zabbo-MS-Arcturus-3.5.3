@@ -1,0 +1,71 @@
+Arcturus Morningstar **3.5.3**
+
+Build: **0a5d6d1be95b6ee59855b6f6881aea85**
+
+[**Compiled Download: Here!**]()
+
+
+This is a hotfix to fix a potential exploit found in the Pathfinder in previous builds of MS. Please ensure you have updated to this version and ran the required sql files.
+
+A copy of the sourcecode for this compiled jar has been released in full here:
+https://git.krews.org/morningstar/Arcturus-Community/-/commit/f051d1d1557fd8ee1c9bb3dd97dbe6467bab6d1e
+under compliance with the GPL Version 3 License of the original software.
+
+This software is for educational purposes only.
+
+Visit our friends here:
+```
+https://furnibuilder.com
+
+https://discord.nitrodev.co
+
+https://krews.org
+
+https://sulek.dev
+
+https://clothingbuilder.com
+```
+
+You can find the full changelog in documentation/README.md in the downloaded zip.
+Please submit all bugs and issues on the official Morningstar Git at:
+https://git.krews.org/morningstar/Arcturus-Community/-/issues
+
+Thank you to the following people:
+
+```
+ - TheGeneral (Arcturus Emulator)
+   - Beny 
+   - Alejandro
+   - Capheus
+   - Skeletor
+   - Harmonic
+   - Mike
+   - Remco
+   - zGrav
+   - Quadral
+   - Harmony
+   - Swirny
+   - ArpyAge
+   - Mikkel
+   - Rodolfo
+   - Rasmus
+   - Kitt Mustang
+   - Snaiker
+   - nttzx
+   - necmi
+   - Dome
+   - Jose Flores
+   - Cam
+   - Oliver
+   - Narzo
+   - Tenshie
+   - MartenM
+   - Ridge
+   - SenpaiDipper
+   - Thijmen
+   - Brenoepic
+   - Stankman
+   - Laynester
+   - AlfreviD
+This release was brought to you by Team Morningstar
+```

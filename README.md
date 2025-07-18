@@ -18,8 +18,6 @@ Link: https://discord.gg/TNmZ5yhd82
 
 Username: justinretros
 
-[![image](https://img.shields.io/discord/557240155040251905?style=for-the-badge&logo=discord&color=7289DA&label=KREWS&logoColor=fff)](https://discord.gg/BzfFsTp)
-
 
 ## Download ##
 [![image](https://img.shields.io/badge/STABLE%20RELEASES-3.5.3-success.svg?style=for-the-badge&logo=appveyor)](https://git.krews.org/morningstar/Arcturus-Community/-/releases)
